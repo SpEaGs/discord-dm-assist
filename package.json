@@ -1,0 +1,23 @@
+{
+  "name": "discord-dm-assist",
+  "version": "1.0.0",
+  "description": "A DnD DM assistant bot for discord.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpEaGs/discord-dm-assist.git"
+  },
+  "author": "Zach (SpEaGs)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SpEaGs/discord-dm-assist/issues"
+  },
+  "homepage": "https://github.com/SpEaGs/discord-dm-assist#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "winston": "^3.12.0"
+  }
+}
